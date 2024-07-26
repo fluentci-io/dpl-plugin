@@ -1,0 +1,12 @@
+[package]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
+description = "CI/CD Plugin for dpl"
+license = "MIT"
+name = "dpl"
+version = "0.1.0"
+keywords = [
+  "dpl",
+  "deploy"
+]
